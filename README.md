@@ -1,8 +1,8 @@
 # Test-Repository1
 Testing
 
+Changing Readme for testing.
 
-CHanging Readme for testing.
+Changing readme from within Github.
 
-
-CHanging readme from within github.
+This is got Github-5 and has to be right.
