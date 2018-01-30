@@ -2,7 +2,9 @@
 Testing
 
 
-CHanging Readme for testing.
+Changing Readme for testing.
 
 
-CHanging readme from within github.
+Changing readme from within github.
+
+Correcting spelling mistakes from previous changes for branch Github-3
