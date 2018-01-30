@@ -2,7 +2,9 @@
 Testing
 
 
-CHanging Readme for testing.
+Changing Readme for testing.
 
 
-CHanging readme from within github.
+Changing readme from within Github.
+
+Updating readme in feature-1 branch for practice.
